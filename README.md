@@ -1,2 +1,6 @@
 # CosmoEduFinal
-This is the final version of game CosmoEdu
+Ostatnia wersja CosmoEdu
+
+Powyższe repozytorium zawiera kod źródłowy aplikacji CosmoEdu, będącej częścią artystyczną pracy inżynierskiej.
+
+
