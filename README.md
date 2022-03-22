@@ -1,7 +1,11 @@
 # CosmoEduFinal
 
+Ostatnia wersja CosmoEdu
 
-#1 Wstęp 
+Powyższe repozytorium zawiera kod źródłowy aplikacji CosmoEdu, będącej częścią artystyczną pracy inżynierskiej.
+
+
+# 1 Wstęp 
 
 1.2 Główna tematyka
 
@@ -9,7 +13,7 @@
 
 1.4 Cel oraz zakres pracy
 
-#2 Projekt
+# 2 Projekt
 
 2.1 Wymagania aplikacji
 
@@ -21,7 +25,7 @@
 
 2.5 Baza Pytań
 
-#3 Implementacja
+# 3 Implementacja
 
 3.1.1 Sklep
 
@@ -61,7 +65,7 @@
 
 3.4 Implementacja mechanik
 
-#4. Kierunki dalszego rozwoju
+# 4. Kierunki dalszego rozwoju
 
 4.1 Wprowadzenie modułu sieciowego
 
@@ -69,10 +73,10 @@
 
 4.3 Rozwinięcie zawartości produktu
 
-#5. Podsumowanie
+# 5. Podsumowanie
 
-#Bibliografia
+# Bibliografia
 
-#Wykaz rysunków, tabel oraz listingów
+# Wykaz rysunków, tabel oraz listingów
 
-#Streszczenie
+# Streszczenie
