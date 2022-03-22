@@ -2,7 +2,9 @@
 
 Ostatnia wersja CosmoEdu
 
-Powyższe repozytorium zawiera kod źródłowy aplikacji CosmoEdu, będącej częścią artystyczną pracy inżynierskiej.
+Powyższe repozytorium zawiera kod źródłowy aplikacji CosmoEdu, będącej częścią artystyczną pracy inżynierskiej wykonanej przez Eryk Czuba.
+
+Dodatkowo w repozytorium zostały zawarte dwie aplikacje: pierwsza odpowiedzialna za wersje testową wraz z nielimitowaną ilością wirtualnej waluty a także funkcjonalnością dostępną tylko dla admina, druga wersja aplikacji przeznaczona do uzytku publicznego przez graczy.
 
 
 # 1 Wstęp 
